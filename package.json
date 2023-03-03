@@ -1,0 +1,12 @@
+{
+  "name": "gestioncuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Gestor de cuentas bancarias banco popular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Luis Cruz",
+  "license": "ISC",
+  "type": "module"
+}
